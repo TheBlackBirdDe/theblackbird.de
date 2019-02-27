@@ -14,8 +14,10 @@ Place here your custom CSS styles
 .img-circle {
   border-radius: 50%;
   width: 140px;
+  height: 140px;
   align-self: auto;
   margin: 40px;
+  background-size: contain;
 }
 
 p {
@@ -37,4 +39,40 @@ p {
 
 .icon-linkedin {
   font-size: 24px;
+}
+
+#artur {
+  background-image: url("../../images/artur.jpg");
+}
+
+#evelyn {
+  background-image: url("../../images/evelyn.jpeg");
+}
+
+#bart {
+  background-image: url("../../images/bart.jpeg");
+}
+
+#jean {
+  background-image: url("../../images/jean.jpeg");
+}
+
+#martin {
+  background-image: url("../../images/martin.jpeg");
+}
+
+#montse {
+  background-image: url("../../images/montse.jpg");
+}
+
+#luc {
+  background-image: url("../../images/luc.jpg");
+}
+
+#natalia {
+  background-image: url("../../images/natalia.jpg");
+}
+
+#mirela {
+  background-image: url("../../images/mirela.jpg");
 }
