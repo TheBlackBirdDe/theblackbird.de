@@ -65,10 +65,6 @@ p {
   background-image: url("../../images/montse.jpg");
 }
 
-#luc {
-  background-image: url("../../images/luc.jpg");
-}
-
 #natalia {
   background-image: url("../../images/natalia.jpg");
 }
@@ -79,6 +75,10 @@ p {
 
 #shira {
   background-image: url("../../images/shira.jpg");
+}
+
+#beata {
+  background-image: url("../../images/beata.jpg");
 }
 
 #kitty {
