@@ -49,12 +49,8 @@ p {
   background-image: url("../../images/evelyn.jpeg");
 }
 
-#gonzalo {
-  background-image: url("../../images/gonzalo.jpg");
-}
-
-#virginia {
-  background-image: url("../../images/virginia.jpg");
+#jean {
+  background-image: url("../../images/jean.jpeg");
 }
 
 #martin {
@@ -75,6 +71,26 @@ p {
 
 #shira {
   background-image: url("../../images/shira.jpg");
+}
+
+#virginia {
+  background-image: url("../../images/virginia.jpg");
+}
+
+#aaina {
+  background-image: url("../../images/aaina.jpg");
+}
+
+#david {
+  background-image: url("../../images/david.jpg");
+}
+
+#fulya {
+  background-image: url("../../images/fulya.jpg");
+}
+
+#apeksha {
+  background-image: url("../../images/apeksha.jpg");
 }
 
 #kitty {
