@@ -49,10 +49,6 @@ p {
   background-image: url("../../images/evelyn.jpeg");
 }
 
-#jean {
-  background-image: url("../../images/jean.jpeg");
-}
-
 #martin {
   background-image: url("../../images/martin.jpeg");
 }
@@ -67,14 +63,6 @@ p {
 
 #mirela {
   background-image: url("../../images/mirela.jpg");
-}
-
-#shira {
-  background-image: url("../../images/shira.jpg");
-}
-
-#virginia {
-  background-image: url("../../images/virginia.jpg");
 }
 
 #aaina {
@@ -113,8 +101,12 @@ p {
   background-image: url("../../images/monica.jpg");
 }
 
-#joshua {
-  background-image: url("../../images/joshua.jpg");
+#mohamed {
+  background-image: url("../../images/mohamed.jpg");
+}
+
+#konrad {
+  background-image: url("../../images/konrad.jpg");
 }
 
 #kitty {
